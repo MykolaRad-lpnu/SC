@@ -1,0 +1,447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E830148-AC7D-48F0-AB39-507E6DCE1036}|Lab4\\Lab4.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\controllers\\storagekeepercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E830148-AC7D-48F0-AB39-507E6DCE1036}|Lab4\\Lab4.csproj|solutionrelative:lab4\\controllers\\storagekeepercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E830148-AC7D-48F0-AB39-507E6DCE1036}|Lab4\\Lab4.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\controllers\\storageproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E830148-AC7D-48F0-AB39-507E6DCE1036}|Lab4\\Lab4.csproj|solutionrelative:lab4\\controllers\\storageproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E830148-AC7D-48F0-AB39-507E6DCE1036}|Lab4\\Lab4.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E830148-AC7D-48F0-AB39-507E6DCE1036}|Lab4\\Lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8068EE-49A4-4489-A9D0-A21D2CD265DD}|ApplicationLayer\\ApplicationLayer.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\applicationlayer\\dto\\storagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8068EE-49A4-4489-A9D0-A21D2CD265DD}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\dto\\storagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8068EE-49A4-4489-A9D0-A21D2CD265DD}|ApplicationLayer\\ApplicationLayer.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\applicationlayer\\dto\\storagekeeperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8068EE-49A4-4489-A9D0-A21D2CD265DD}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\dto\\storagekeeperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8068EE-49A4-4489-A9D0-A21D2CD265DD}|ApplicationLayer\\ApplicationLayer.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\applicationlayer\\dto\\storageproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8068EE-49A4-4489-A9D0-A21D2CD265DD}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\dto\\storageproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8068EE-49A4-4489-A9D0-A21D2CD265DD}|ApplicationLayer\\ApplicationLayer.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\applicationlayer\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8068EE-49A4-4489-A9D0-A21D2CD265DD}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F88D29F-62ED-44F1-A942-6F5E0110F542}|DomainLayer\\DomainLayer.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\domainlayer\\models\\storagekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F88D29F-62ED-44F1-A942-6F5E0110F542}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\storagekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F88D29F-62ED-44F1-A942-6F5E0110F542}|DomainLayer\\DomainLayer.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\domainlayer\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F88D29F-62ED-44F1-A942-6F5E0110F542}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E830148-AC7D-48F0-AB39-507E6DCE1036}|Lab4\\Lab4.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E830148-AC7D-48F0-AB39-507E6DCE1036}|Lab4\\Lab4.csproj|solutionrelative:lab4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B40D05-131F-4DE6-BAC0-1C57D1C4B0D8}|InfrastructureLayer\\InfrastructureLayer.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\infrastructurelayer\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B40D05-131F-4DE6-BAC0-1C57D1C4B0D8}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E830148-AC7D-48F0-AB39-507E6DCE1036}|Lab4\\Lab4.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\migrations\\20241120122047_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E830148-AC7D-48F0-AB39-507E6DCE1036}|Lab4\\Lab4.csproj|solutionrelative:lab4\\migrations\\20241120122047_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E830148-AC7D-48F0-AB39-507E6DCE1036}|Lab4\\Lab4.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\migrations\\20241119211457_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E830148-AC7D-48F0-AB39-507E6DCE1036}|Lab4\\Lab4.csproj|solutionrelative:lab4\\migrations\\20241119211457_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8068EE-49A4-4489-A9D0-A21D2CD265DD}|ApplicationLayer\\ApplicationLayer.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\applicationlayer\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8068EE-49A4-4489-A9D0-A21D2CD265DD}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F88D29F-62ED-44F1-A942-6F5E0110F542}|DomainLayer\\DomainLayer.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\domainlayer\\repositoryinterfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F88D29F-62ED-44F1-A942-6F5E0110F542}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositoryinterfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B40D05-131F-4DE6-BAC0-1C57D1C4B0D8}|InfrastructureLayer\\InfrastructureLayer.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\infrastructurelayer\\dal\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B40D05-131F-4DE6-BAC0-1C57D1C4B0D8}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\dal\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B40D05-131F-4DE6-BAC0-1C57D1C4B0D8}|InfrastructureLayer\\InfrastructureLayer.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\infrastructurelayer\\dal\\productsenterprisedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B40D05-131F-4DE6-BAC0-1C57D1C4B0D8}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\dal\\productsenterprisedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F88D29F-62ED-44F1-A942-6F5E0110F542}|DomainLayer\\DomainLayer.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\domainlayer\\models\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F88D29F-62ED-44F1-A942-6F5E0110F542}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E830148-AC7D-48F0-AB39-507E6DCE1036}|Lab4\\Lab4.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E830148-AC7D-48F0-AB39-507E6DCE1036}|Lab4\\Lab4.csproj|solutionrelative:lab4\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B40D05-131F-4DE6-BAC0-1C57D1C4B0D8}|InfrastructureLayer\\InfrastructureLayer.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\infrastructurelayer\\repositories\\storagekeeperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B40D05-131F-4DE6-BAC0-1C57D1C4B0D8}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\repositories\\storagekeeperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F88D29F-62ED-44F1-A942-6F5E0110F542}|DomainLayer\\DomainLayer.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\domainlayer\\repositoryinterfaces\\istoragekeeperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F88D29F-62ED-44F1-A942-6F5E0110F542}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositoryinterfaces\\istoragekeeperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F88D29F-62ED-44F1-A942-6F5E0110F542}|DomainLayer\\DomainLayer.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\domainlayer\\repositoryinterfaces\\istorageproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F88D29F-62ED-44F1-A942-6F5E0110F542}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositoryinterfaces\\istorageproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B40D05-131F-4DE6-BAC0-1C57D1C4B0D8}|InfrastructureLayer\\InfrastructureLayer.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\infrastructurelayer\\repositories\\storageproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B40D05-131F-4DE6-BAC0-1C57D1C4B0D8}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\repositories\\storageproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F88D29F-62ED-44F1-A942-6F5E0110F542}|DomainLayer\\DomainLayer.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\domainlayer\\models\\storageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F88D29F-62ED-44F1-A942-6F5E0110F542}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\storageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B40D05-131F-4DE6-BAC0-1C57D1C4B0D8}|InfrastructureLayer\\InfrastructureLayer.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\infrastructurelayer\\repositories\\storagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B40D05-131F-4DE6-BAC0-1C57D1C4B0D8}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\repositories\\storagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StorageKeeperDTO.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\ApplicationLayer\\DTO\\StorageKeeperDTO.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\DTO\\StorageKeeperDTO.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\ApplicationLayer\\DTO\\StorageKeeperDTO.cs",
+              "RelativeToolTip": "ApplicationLayer\\DTO\\StorageKeeperDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:32:27.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\ApplicationLayer\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\DTO\\ProductDTO.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\ApplicationLayer\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "ApplicationLayer\\DTO\\ProductDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:29:06.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241120122047_V1.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\Lab4\\Migrations\\20241120122047_V1.cs",
+              "RelativeDocumentMoniker": "Lab4\\Migrations\\20241120122047_V1.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\Lab4\\Migrations\\20241120122047_V1.cs",
+              "RelativeToolTip": "Lab4\\Migrations\\20241120122047_V1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:20:47.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\InfrastructureLayer\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\InfrastructureLayer\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:49:16.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\Lab4\\Program.cs",
+              "RelativeToolTip": "Lab4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:58:34.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StorageProductController.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\Lab4\\Controllers\\StorageProductController.cs",
+              "RelativeDocumentMoniker": "Lab4\\Controllers\\StorageProductController.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\Lab4\\Controllers\\StorageProductController.cs",
+              "RelativeToolTip": "Lab4\\Controllers\\StorageProductController.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAJcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:49:48.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StorageKeeperController.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\Lab4\\Controllers\\StorageKeeperController.cs",
+              "RelativeDocumentMoniker": "Lab4\\Controllers\\StorageKeeperController.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\Lab4\\Controllers\\StorageKeeperController.cs",
+              "RelativeToolTip": "Lab4\\Controllers\\StorageKeeperController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAuwIEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:50:27.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StorageDTO.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\ApplicationLayer\\DTO\\StorageDTO.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\DTO\\StorageDTO.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\ApplicationLayer\\DTO\\StorageDTO.cs",
+              "RelativeToolTip": "ApplicationLayer\\DTO\\StorageDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:56:36.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StorageProductDTO.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\ApplicationLayer\\DTO\\StorageProductDTO.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\DTO\\StorageProductDTO.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\ApplicationLayer\\DTO\\StorageProductDTO.cs",
+              "RelativeToolTip": "ApplicationLayer\\DTO\\StorageProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:36:16.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241119211457_InitialCreate.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\Lab4\\Migrations\\20241119211457_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Lab4\\Migrations\\20241119211457_InitialCreate.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\Lab4\\Migrations\\20241119211457_InitialCreate.cs",
+              "RelativeToolTip": "Lab4\\Migrations\\20241119211457_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:29:43.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\Lab4\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Lab4\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\Lab4\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Lab4\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:50:23.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\DomainLayer\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Product.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\DomainLayer\\Models\\Product.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:48:48.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StorageKeeper.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\DomainLayer\\Models\\StorageKeeper.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\StorageKeeper.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\DomainLayer\\Models\\StorageKeeper.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\StorageKeeper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:51:45.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\ApplicationLayer\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Mapper\\MappingProfile.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\ApplicationLayer\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "ApplicationLayer\\Mapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:29:17.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\DomainLayer\\RepositoryInterfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\RepositoryInterfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\DomainLayer\\RepositoryInterfaces\\IProductRepository.cs",
+              "RelativeToolTip": "DomainLayer\\RepositoryInterfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:28:53.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\InfrastructureLayer\\DAL\\Seed.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\DAL\\Seed.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\InfrastructureLayer\\DAL\\Seed.cs",
+              "RelativeToolTip": "InfrastructureLayer\\DAL\\Seed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:28:41.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductsEnterpriseDBContext.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\InfrastructureLayer\\DAL\\ProductsEnterpriseDBContext.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\DAL\\ProductsEnterpriseDBContext.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\InfrastructureLayer\\DAL\\ProductsEnterpriseDBContext.cs",
+              "RelativeToolTip": "InfrastructureLayer\\DAL\\ProductsEnterpriseDBContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:28:36.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\DomainLayer\\Models\\Storage.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Storage.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\DomainLayer\\Models\\Storage.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Storage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:28:32.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StorageController.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\Lab4\\Controllers\\StorageController.cs",
+              "RelativeDocumentMoniker": "Lab4\\Controllers\\StorageController.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\Lab4\\Controllers\\StorageController.cs",
+              "RelativeToolTip": "Lab4\\Controllers\\StorageController.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAtwIQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:50:09.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StorageKeeperRepository.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\InfrastructureLayer\\Repositories\\StorageKeeperRepository.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Repositories\\StorageKeeperRepository.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\InfrastructureLayer\\Repositories\\StorageKeeperRepository.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Repositories\\StorageKeeperRepository.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAwwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:17:01.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IStorageKeeperRepository.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\DomainLayer\\RepositoryInterfaces\\IStorageKeeperRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\RepositoryInterfaces\\IStorageKeeperRepository.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\DomainLayer\\RepositoryInterfaces\\IStorageKeeperRepository.cs",
+              "RelativeToolTip": "DomainLayer\\RepositoryInterfaces\\IStorageKeeperRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:57:45.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IStorageProductRepository.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\DomainLayer\\RepositoryInterfaces\\IStorageProductRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\RepositoryInterfaces\\IStorageProductRepository.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\DomainLayer\\RepositoryInterfaces\\IStorageProductRepository.cs",
+              "RelativeToolTip": "DomainLayer\\RepositoryInterfaces\\IStorageProductRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:57:03.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StorageProductRepository.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\InfrastructureLayer\\Repositories\\StorageProductRepository.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Repositories\\StorageProductRepository.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\InfrastructureLayer\\Repositories\\StorageProductRepository.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Repositories\\StorageProductRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAkwEMAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:49:24.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StorageProduct.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\DomainLayer\\Models\\StorageProduct.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\StorageProduct.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\DomainLayer\\Models\\StorageProduct.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\StorageProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:49:12.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StorageRepository.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\InfrastructureLayer\\Repositories\\StorageRepository.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Repositories\\StorageRepository.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\Lab4\\InfrastructureLayer\\Repositories\\StorageRepository.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Repositories\\StorageRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:43:30.219Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

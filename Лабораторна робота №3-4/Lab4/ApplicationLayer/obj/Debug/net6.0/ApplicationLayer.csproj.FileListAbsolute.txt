@@ -1,0 +1,15 @@
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №4\Lab4\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.deps.json
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №4\Lab4\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.dll
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №4\Lab4\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.pdb
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №4\Lab4\ApplicationLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №4\Lab4\ApplicationLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №4\Lab4\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.AssemblyReference.cache
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №4\Lab4\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №4\Lab4\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfoInputs.cache
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №4\Lab4\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfo.cs
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №4\Lab4\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №4\Lab4\ApplicationLayer\obj\Debug\net6.0\Applicat.033E422A.Up2Date
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №4\Lab4\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.dll
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №4\Lab4\ApplicationLayer\obj\Debug\net6.0\refint\ApplicationLayer.dll
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №4\Lab4\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.pdb
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №4\Lab4\ApplicationLayer\obj\Debug\net6.0\ref\ApplicationLayer.dll
