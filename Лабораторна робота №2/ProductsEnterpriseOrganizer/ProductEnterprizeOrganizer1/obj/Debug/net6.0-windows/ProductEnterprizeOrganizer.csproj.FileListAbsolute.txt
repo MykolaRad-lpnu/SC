@@ -1,0 +1,12 @@
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №2\ProductsEnterpriseOrganizer\ProductEnterprizeOrganizer1\bin\Debug\net6.0-windows\ProductEnterprizeOrganizer.deps.json
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №2\ProductsEnterpriseOrganizer\ProductEnterprizeOrganizer1\bin\Debug\net6.0-windows\ProductEnterprizeOrganizer.dll
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №2\ProductsEnterpriseOrganizer\ProductEnterprizeOrganizer1\bin\Debug\net6.0-windows\ProductEnterprizeOrganizer.pdb
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №2\ProductsEnterpriseOrganizer\ProductEnterprizeOrganizer1\obj\Debug\net6.0-windows\ProductEnterprizeOrganizer.csproj.AssemblyReference.cache
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №2\ProductsEnterpriseOrganizer\ProductEnterprizeOrganizer1\obj\Debug\net6.0-windows\ProductEnterprizeOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №2\ProductsEnterpriseOrganizer\ProductEnterprizeOrganizer1\obj\Debug\net6.0-windows\ProductEnterprizeOrganizer.AssemblyInfoInputs.cache
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №2\ProductsEnterpriseOrganizer\ProductEnterprizeOrganizer1\obj\Debug\net6.0-windows\ProductEnterprizeOrganizer.AssemblyInfo.cs
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №2\ProductsEnterpriseOrganizer\ProductEnterprizeOrganizer1\obj\Debug\net6.0-windows\ProductEnterprizeOrganizer.csproj.CoreCompileInputs.cache
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №2\ProductsEnterpriseOrganizer\ProductEnterprizeOrganizer1\obj\Debug\net6.0-windows\ProductEnterprizeOrganizer.dll
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №2\ProductsEnterpriseOrganizer\ProductEnterprizeOrganizer1\obj\Debug\net6.0-windows\refint\ProductEnterprizeOrganizer.dll
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №2\ProductsEnterpriseOrganizer\ProductEnterprizeOrganizer1\obj\Debug\net6.0-windows\ProductEnterprizeOrganizer.pdb
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №2\ProductsEnterpriseOrganizer\ProductEnterprizeOrganizer1\obj\Debug\net6.0-windows\ref\ProductEnterprizeOrganizer.dll
