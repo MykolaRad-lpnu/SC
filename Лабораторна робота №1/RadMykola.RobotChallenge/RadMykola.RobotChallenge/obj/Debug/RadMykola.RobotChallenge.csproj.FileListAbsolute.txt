@@ -1,0 +1,8 @@
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №1\RadMykola.RobotChallenge\RadMykola.RobotChallenge\bin\Debug\RadMykola.RobotChallenge.dll
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №1\RadMykola.RobotChallenge\RadMykola.RobotChallenge\bin\Debug\RadMykola.RobotChallenge.pdb
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №1\RadMykola.RobotChallenge\RadMykola.RobotChallenge\bin\Debug\Robot.Common.dll
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №1\RadMykola.RobotChallenge\RadMykola.RobotChallenge\obj\Debug\RadMykola.RobotChallenge.csproj.AssemblyReference.cache
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №1\RadMykola.RobotChallenge\RadMykola.RobotChallenge\obj\Debug\RadMykola.RobotChallenge.csproj.CoreCompileInputs.cache
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №1\RadMykola.RobotChallenge\RadMykola.RobotChallenge\obj\Debug\RadMykol.CBEE8146.Up2Date
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №1\RadMykola.RobotChallenge\RadMykola.RobotChallenge\obj\Debug\RadMykola.RobotChallenge.dll
+D:\Універ\3 курс\5 семестр\Конструювання ПЗ\Лабораторні\Лабораторна робота №1\RadMykola.RobotChallenge\RadMykola.RobotChallenge\obj\Debug\RadMykola.RobotChallenge.pdb

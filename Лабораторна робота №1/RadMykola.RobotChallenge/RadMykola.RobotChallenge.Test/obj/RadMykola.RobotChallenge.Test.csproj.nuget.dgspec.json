@@ -1,0 +1,110 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Універ\\3 курс\\5 семестр\\Конструювання ПЗ\\Лабораторні\\Лабораторна робота №1\\RadMykola.RobotChallenge\\RadMykola.RobotChallenge.Test\\RadMykola.RobotChallenge.Test.csproj": {}
+  },
+  "projects": {
+    "D:\\Універ\\3 курс\\5 семестр\\Конструювання ПЗ\\Лабораторні\\Лабораторна робота №1\\RadMykola.RobotChallenge\\RadMykola.RobotChallenge.Test\\RadMykola.RobotChallenge.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Універ\\3 курс\\5 семестр\\Конструювання ПЗ\\Лабораторні\\Лабораторна робота №1\\RadMykola.RobotChallenge\\RadMykola.RobotChallenge.Test\\RadMykola.RobotChallenge.Test.csproj",
+        "projectName": "RadMykola.RobotChallenge.Test",
+        "projectPath": "D:\\Універ\\3 курс\\5 семестр\\Конструювання ПЗ\\Лабораторні\\Лабораторна робота №1\\RadMykola.RobotChallenge\\RadMykola.RobotChallenge.Test\\RadMykola.RobotChallenge.Test.csproj",
+        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
+        "outputPath": "D:\\Універ\\3 курс\\5 семестр\\Конструювання ПЗ\\Лабораторні\\Лабораторна робота №1\\RadMykola.RobotChallenge\\RadMykola.RobotChallenge.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Універ\\3 курс\\5 семестр\\Конструювання ПЗ\\Лабораторні\\Лабораторна робота №1\\RadMykola.RobotChallenge\\RadMykola.RobotChallenge\\RadMykola.RobotChallenge.csproj": {
+                "projectPath": "D:\\Універ\\3 курс\\5 семестр\\Конструювання ПЗ\\Лабораторні\\Лабораторна робота №1\\RadMykola.RobotChallenge\\RadMykola.RobotChallenge\\RadMykola.RobotChallenge.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Універ\\3 курс\\5 семестр\\Конструювання ПЗ\\Лабораторні\\Лабораторна робота №1\\RadMykola.RobotChallenge\\RadMykola.RobotChallenge\\RadMykola.RobotChallenge.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Універ\\3 курс\\5 семестр\\Конструювання ПЗ\\Лабораторні\\Лабораторна робота №1\\RadMykola.RobotChallenge\\RadMykola.RobotChallenge\\RadMykola.RobotChallenge.csproj",
+        "projectName": "RadMykola.RobotChallenge",
+        "projectPath": "D:\\Універ\\3 курс\\5 семестр\\Конструювання ПЗ\\Лабораторні\\Лабораторна робота №1\\RadMykola.RobotChallenge\\RadMykola.RobotChallenge\\RadMykola.RobotChallenge.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
